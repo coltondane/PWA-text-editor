@@ -23,3 +23,4 @@
 - [My GitHub](https://github.com/coltondane)
     coltondane.py@gmail.com
 ## Screenshot(s)
+<img width="1439" alt="Screenshot 2023-11-21 at 2 39 16 PM" src="https://github.com/coltondane/PWA-text-editor/assets/113216904/ea0f5733-d482-421f-8feb-a40cf79f1cdb">
