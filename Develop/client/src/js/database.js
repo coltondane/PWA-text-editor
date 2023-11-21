@@ -33,6 +33,7 @@ export const getDb = async () => {
   const request = store.getAll(1);
   const result = await request;
   console.log('result.value', result);
+  console.error('getDb not implemented')
   // return the saved value
   return result.value;
 }
