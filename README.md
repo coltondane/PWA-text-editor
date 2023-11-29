@@ -1,6 +1,6 @@
 # PWA-text-editor [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-    This application showcases an example of the capability of PWA's and one of the ways they make the life of a developer easier. This specific application is ana example of one that can be downloaded onto the users device to be used in offline circumstances. The app itself is a simple text editor.
+    This application showcases an example of the capability of PWA's and one of the ways they make the life of a developer easier. This specific application is an example of one that can be downloaded onto the users device to be used in offline circumstances. The app itself is a simple text editor.
 ## Table Of Contents
 - [Installation](#installation)
 - [Usage](#usage)
